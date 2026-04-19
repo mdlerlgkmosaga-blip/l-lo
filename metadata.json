@@ -1,0 +1,6 @@
+{
+  "name": "AI Chat Companion",
+  "description": "A simple and clean AI chat interface powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
